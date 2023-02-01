@@ -150,22 +150,30 @@
   .navbar{
     background-image: linear-gradient(-20deg , #2358f5, #202020);
   }
+
+  .center {
+    margin: auto;
+    width: 85%;
+    padding: 10px;
+  }
   
   body{
 	margin: 0;
 	padding: 0;
-    background-image: url('images/greyfade.jpg');
-    background-size: 100% auto;
-    background-position: center top;
-    background-repeat: no-repeat;
+  background-image: url('images/greyfade.jpg');
+  background-size: 100% auto;
+  background-position: center top;
+  background-repeat: no-repeat;
 	/*background-color: #0e6cc4;*/
-    font: #fff;
+  font: #fff;
 }
 .lead{
     color: #fff;
 }
 h1{
     color: #fff;
+    font-family: "Reaver Regular";
+    font-size: 30px;
 }
 h3{
   color: #fff;
