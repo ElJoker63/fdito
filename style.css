@@ -1,8 +1,8 @@
-@font-face{font-family:"Reaver Regular";src:url("fonts/Reaver-Regular.woff") format("woff"), url("fonts/Reaver-Regular.ttf") format("truetype");font-weight:400;font-style:normal}
-@font-face{font-family:"Reaver Light";src:url("fonts/Reaver-Light.woff") format("woff"),url("fonts/Reaver-Regular-Light.ttf") format("truetype");font-weight:200;font-style:normal}
-@font-face{font-family:"Reaver SemiBold";src:url("fonts/Reaver-SemiBold.woff") format("woff"),url("fonts/Reaver-Regular-SemiBold.ttf") format("truetype");font-weight:600;font-style:normal}
-@font-face{font-family:"Reaver Bold";src:url("fonts/Reaver-Bold.woff") format("woff"),url("fonts/Reaver-Regular-Bold.ttf") format("truetype");font-weight:700;font-style:normal}
-@font-face{font-family:"Reaver Black";src:url("fonts/Reaver-Black.woff") format("woff"),url("fonts/Reaver-Regular-Black.ttf") format("truetype");font-weight:800;font-style:normal}
+@font-face{font-family:"Reaver Regular";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.woff") format("woff"), url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.ttf") format("truetype");font-weight:400;font-style:normal}
+@font-face{font-family:"Reaver Light";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Light.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Light.ttf") format("truetype");font-weight:200;font-style:normal}
+@font-face{font-family:"Reaver SemiBold";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-SemiBold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-SemiBold.ttf") format("truetype");font-weight:600;font-style:normal}
+@font-face{font-family:"Reaver Bold";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Bold.ttf") format("truetype");font-weight:700;font-style:normal}
+@font-face{font-family:"Reaver Black";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Black.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Black.ttf") format("truetype");font-weight:800;font-style:normal}
 
 /* BEGIN CARD DESIGN */
 .hero {
